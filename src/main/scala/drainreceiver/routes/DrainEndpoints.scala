@@ -16,7 +16,6 @@ class DrainEndpoints(implicit system: ActorSystem,
 
   val logCount = Counter("http.log.receive")
   val logMeter = Meter("http.log.receive.meter")
-  val logFailedCount = Counter("http.log.receive.failed")
 
   val route = {
     post {
