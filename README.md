@@ -1,4 +1,4 @@
-drain-processor
+drain-receiver
 ===========================
 
 [![Build Status](https://travis-ci.org/vonnagy/drain-processor.png?branch=master)](https://travis-ci.org/vonnagy/drain-processor)
